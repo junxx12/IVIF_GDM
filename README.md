@@ -1,2 +1,2 @@
 # IVIF_GDM
-An Interval-valued Intuitionistic Fuzzy Group Decision-Making Method Based on Projective Measure Extension VIKOR
+A novel group decision-making method based on extended VIKOR and interval-valued intuitionistic fuzzy
